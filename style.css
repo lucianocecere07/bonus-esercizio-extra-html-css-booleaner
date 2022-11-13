@@ -4,31 +4,38 @@
     height: 350px;
     /* margin-top: 10px; */
 }
+
 main {
     margin: auto;
 }
+
 #logo {
     margin-top: 10px;
     margin-left: 5px;
     width: 300px;
-    }
+}
+
 #tim1 {
     width: 500px;
     height: 400px;
     margin-bottom: 1px;
 }
+
 #tim2 {
     width: 500px;
     height: 400px;
     margin-bottom: 1px;
 }
+
 footer {
-    margin:auto;
+    margin: auto;
 }
+
 #fondo {
     color: rgb(128, 128, 128);
     margin-bottom: 5px;
 }
+
 #monitor {
     width: 150px;
     height: 100px;
@@ -36,47 +43,58 @@ footer {
     margin-bottom: 5px;
     margin-top: 5px;
 }
+
 #graph {
     width: 150px;
     height: 100px;
     display: block;
 }
- h6 {
+
+h6 {
     margin-top: 1px;
- }
- h4 {
+}
+
+h4 {
     margin-bottom: 1px;
- }
+}
+
 table {
     width: 100%;
 }
+
 thead {
     background-color: rgb(32, 169, 229);
     color: white;
 }
+
 #tabella-colore {
     background-color: rgb(177, 229, 242);
 }
+
 .immagine-monitor {
-    position: relative;   
- }
- .immagine-monitor h5 {
-    position: absolute;
-    color: white;
-    font: bold 10px Times;   
-    padding-left: 2px; 
-    top: 1px;
- }
- .immagine-graph {
-    position: relative;   
- }
- .immagine-graph h5 {
+    position: relative;
+}
+
+.immagine-monitor h5 {
     position: absolute;
     color: white;
     font: bold 10px Times;
-    padding-left: 2px;      
+    padding-left: 2px;
     top: 1px;
- }
- table {
+}
+
+.immagine-graph {
+    position: relative;
+}
+
+.immagine-graph h5 {
+    position: absolute;
+    color: white;
+    font: bold 10px Times;
+    padding-left: 2px;
+    top: 1px;
+}
+
+table {
     border-collapse: collapse;
- }
+}
